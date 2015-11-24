@@ -535,6 +535,7 @@
 				margin-top: -7px;
 				padding: 0 20px 20px 0;
 				background: url(img/bg_concretely_b_s.png) no-repeat bottom center;
+				line-height: 1.8;
 			}
 
 			.action_btn a:hover > span,
